@@ -1,0 +1,12 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build:css": "tailwindcss -i ./static/css/styles.css -o ./static/css/main.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "daisyui": "^4.6.0"
+  }
+}
