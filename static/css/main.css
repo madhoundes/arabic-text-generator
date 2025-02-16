@@ -687,6 +687,7 @@ h1, h2, h3, h4, h5, h6 {
 #output {
   font-weight: 400;
   line-height: 1.8;
+  color: red !important;
 }
 
 .container {
@@ -1815,9 +1816,9 @@ h1, h2, h3, h4, h5, h6 {
   color: rgb(31 41 55 / var(--tw-text-opacity, 1));
 }
 
-.text-primary{
+.text-primary {
   --tw-text-opacity: 1;
-  color: rgb(124 58 237 / var(--tw-text-opacity, 1));
+  color: #4CAF50 !important;
 }
 
 .shadow-lg{
